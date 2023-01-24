@@ -1,6 +1,6 @@
 ![MasterHead](./banner.jpg)
 <h1 align="center">Hi 👋, I'm Osama Mirghani</h1>
-<h3 align="center">A passionate frontend engineer from Sudan</h3>
+<!-- <h3 align="center">A passionate frontend engineer from Sudan</h3> -->
 <img align="right" alt="Coding" width="400" src="./right-image.jpg"/>
 
 - 🔭 I’m currently working on [Bumbee](https://github.com/BumBee-Social-Platform)
