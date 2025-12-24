@@ -13,10 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/merghani_osama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merghani_osama" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/osama-mirghani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-mirghani" height="30" width="40" /></a>
-<a href="https://fb.com/osama.mirghani.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osama.mirghani.5" height="30" width="40" /></a>
-<a href="https://instagram.com/osama_mirghani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osama_mirghani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
