@@ -3,9 +3,9 @@
 <!-- <h3 align="center">A passionate frontend engineer from Sudan</h3> -->
 <img align="right" alt="Coding" width="400" src="./right-image.jpg"/>
 
-- 🌱 I’m currently learning **AWS, NestJS and Tailwind css**
+- 🌱 I’m currently learning about **Agentic AI, Propmpt Engineering and Prduct Management**
 
-- 💬 Ask me about **ReactJS, NodeJS, Firebase, Graphql**
+- 💬 Ask me about **ReactJS, NodeJS, Agile, AWS**
 
 - 📫 How to reach me **osamamirghani95@gmail.com**
 
